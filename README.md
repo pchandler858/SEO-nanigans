@@ -1,6 +1,6 @@
 # <Your-Project-Title>
 
-## Description (TEMPLATE ONLY. PENDING CUSTIMIZATION)
+## Description (TEMPLATE ONLY. PENDING CUSTOMIZATION)
 
 Created to orginize all of my notes on HTML, CSS, Git and JavaScript all in one easily accessable place.
 
