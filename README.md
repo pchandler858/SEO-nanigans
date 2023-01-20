@@ -2,7 +2,7 @@
 
 ## Description
 
-On-the-job type of exercise where the main focus was on HTML semantics.
+"On-the-job ticket" type of exercise where the main focus was on HTML semantics.
 
 ##These were the challenge requirements:
 
