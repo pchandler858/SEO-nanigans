@@ -29,3 +29,7 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+
+## The following image shows the web application's appearance and functionality:
+
+![Mockup screenshot](./assets/images/mock-up.png)
