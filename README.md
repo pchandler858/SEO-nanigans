@@ -4,7 +4,7 @@
 
 "On-the-job ticket" type of exercise where the main focus was on HTML semantics.
 
-##These were the challenge requirements:
+## These were the challenge requirements:
 
 ### User Story
 
