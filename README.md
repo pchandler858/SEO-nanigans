@@ -1,8 +1,12 @@
-# UofO Bootcamp - Module 1 Challenge
+# SEO-nanigans
+
+## Live Demo
+
+The live demo can be accessed [here](https://pchandler858.github.io/module-1-urban-octo-telegram/).
 
 ## Description
 
-"On-the-job ticket" type of exercise where the main focus was on HTML semantics.
+"AccessibleSEO" - A live demo showcasing an optimized and accessible marketing agency website that follows HTML semantic standards, ensuring proper structure, logical element hierarchy, descriptive alt attributes for images, sequential heading attributes, and a concise, descriptive title for enhanced search engine optimization.
 
 ## These were the challenge requirements:
 
@@ -32,4 +36,4 @@ THEN I find a concise, descriptive title
 
 ## The following image shows the web application's appearance and functionality:
 
-![Mockup screenshot](./assets/images/mock-up.png)
+![Mockup screenshot](./assets/images/screenshot.jpeg)
