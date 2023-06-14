@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-The live demo can be accessed [here](https://pchandler858.github.io/module-1-urban-octo-telegram/).
+The live demo can be accessed [here](https://pchandler858.github.io/SEO-nanigans/).
 
 ## Description
 
